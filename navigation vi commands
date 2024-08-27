@@ -1,0 +1,36 @@
+h: Move left by one character.
+Usage: Navigate left in Normal mode.
+
+j: Move down by one line.
+Usage: Navigate downwards in Normal mode.
+
+k: Move up by one line.
+Usage: Navigate upwards in Normal mode.
+
+l: Move right by one character.
+Usage: Navigate right in Normal mode.
+
+0: Move to the beginning of the line.
+Usage: Position the cursor at the start of the current line.
+
+$: Move to the end of the line.
+Usage: Position the cursor at the end of the current line.
+
+gg: Move to the beginning of the file.
+Usage: Jump to the first line of the file.
+
+G: Move to the end of the file.
+Usage: Jump to the last line of the file.
+
+Ctrl + f: Page forward.
+Usage: Scroll down one page.
+
+Ctrl + b: Page backward.
+Usage: Scroll up one page.
+
+w: Move forward by a word.
+Usage: Move the cursor to the start of the next word.
+
+b: Move backward by a word.
+Usage: Move the cursor to the beginning of the previous word.
+
