@@ -1,0 +1,17 @@
+i: Enter Insert mode before the cursor.
+Usage: Position the cursor where you want to start typing and press i. You can then type your text. Press Esc to return to Normal mode.
+
+I: Enter Insert mode at the beginning of the line.
+Usage: Moves the cursor to the start of the current line and switches to Insert mode.
+
+a: Enter Insert mode after the cursor.
+Usage: Moves the cursor one position to the right and switches to Insert mode.
+
+A: Enter Insert mode at the end of the line.
+Usage: Moves the cursor to the end of the line and switches to Insert mode.
+
+o: Open a new line below the current line and enter Insert mode.
+Usage: Creates a new line below the current line and moves the cursor to that line in Insert mode.
+
+O: Open a new line above the current line and enter Insert mode.
+Usage: Creates a new line above the current line and moves the cursor to that line in Insert mode.
