@@ -1,0 +1,26 @@
+x: Delete the character under the cursor.
+Usage: Remove a single character at the cursor’s position.
+
+dd: Delete the entire line.
+Usage: Remove the current line and move the cursor to the next line.
+
+d + movement (e.g., dw): Delete from the cursor to the specified movement.
+Usage: For example, dw deletes from the cursor to the end of the current word.
+
+u: Undo the last action.
+Usage: Revert the last change made.
+
+Ctrl + r: Redo the undone action.
+Usage: Restore the last undone change.
+
+p: Paste the deleted text after the cursor.
+Usage: Insert the previously deleted or yanked text after the cursor position.
+
+P: Paste the deleted text before the cursor.
+Usage: Insert the previously deleted or yanked text before the cursor position.
+
+yy: Yank (copy) the entire line.
+Usage: Copy the current line to the clipboard.
+
+y + movement (e.g., yw): Yank text from the cursor to the specified movement.
+Usage: For example, yw copies from the cursor to the end of the current word.
