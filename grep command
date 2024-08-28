@@ -1,0 +1,37 @@
+Grep Command
+
+The grep command is a powerful text-search utility in Unix-like operating systems used for searching text using patterns. 
+The name "grep" stands for "Global Regular Expression Print."
+It searches through files or input provided to it and prints lines that match a given pattern.
+
+Basic syntax
+grep [options] pattern [file...]
+
+i: ignore case
+Matches patterns regardless of case.
+grep -i "pattern" file.txt
+
+v:Invert match
+Shows lines that do not match the pattern.
+grep -v "pattern" file.txt
+
+-l: List filenames
+Displays only the names of files containing the pattern.
+grep -l "pattern" *.txt
+
+-n: Line number
+Shows line numbers with output lines.
+grep -n "pattern" file.txt
+
+-o: only matching
+Displays only the matched parts of a line.
+grep -o "pattern" file.txt
+
+-E:Extended regular expressions
+Allows the use of extended regex features
+grep -E "pattern1|pattern2" file.txt
+
+
+
+
+
