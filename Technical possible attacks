@@ -1,0 +1,28 @@
+
+Some of theTechnical threats are threats that exploit vulnerabilities in technology and systems.
+
+Malware
+
+Virus: A malicious code that attaches itself to legitimate files and spreads. It can corrupt or delete files.
+
+Worm: Self-replicating malware that spreads without human intervention, often exploiting network vulnerabilities.
+
+Trojan Horse: Malware disguised as legitimate software, which, once installed, can give unauthorized access to an attacker.
+
+Ransomware: Encrypts files on a victim's system, demanding payment for decryption.
+
+Phishing
+
+Email Phishing: Fraudulent emails that trick users into providing sensitive information or downloading malicious attachments.
+
+Spear Phishing: Targeted phishing attacks aimed at specific individuals or organizations, often using personalized information.
+
+Man-in-the-Middle (MitM)
+
+Session Hijacking: Intercepting and taking control of a session between a user and a service.
+
+Eavesdropping: Capturing data transmitted over a network, such as credentials or sensitive information.
+
+Denial of Service (DoS)
+
+Distributed Denial of Service (DDoS): Overloading a system or network with traffic to disrupt service availability.
