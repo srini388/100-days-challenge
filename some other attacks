@@ -1,0 +1,67 @@
+Some of the social,physcial,operation and cyber attack.
+
+Social engineering threats exploit human psychology to manipulate individuals into divulging confidential information.
+
+Phishing
+
+Email Phishing: Using deceptive emails to obtain sensitive information.
+
+Vishing (Voice Phishing): Using phone calls to impersonate legitimate entities and extract information.
+Pretexting
+
+Impersonation: Creating a fabricated scenario to obtain information or access from a target, such as pretending to be an IT support person.
+Baiting
+
+Malicious USB Drops: Leaving infected USB drives in public places hoping someone will plug them into their computer, thus spreading malware.
+Tailgating
+
+Unauthorized Access: Gaining physical access to restricted areas by following authorized personnel.
+
+Physical Threats
+Physical threats involve threats to the hardware, infrastructure, and personnel of an organization.
+
+Theft
+
+Hardware Theft: Stealing physical devices like laptops or servers which can lead to data breaches if not properly protected.
+Vandalism
+
+Property Damage: Deliberate damage to physical infrastructure, such as destroying servers or workstations.
+Natural Disasters
+
+Floods, Earthquakes, Fires: Natural events that can damage physical infrastructure and disrupt operations.
+Unauthorized Access
+
+Breaking and Entering: Gaining access to restricted areas to steal or damage physical resources.
+Operational Threats
+
+Operational threats are related to the day-to-day operations and management of systems and processes.
+
+Insider Threats
+
+Malicious Insiders: Employees who intentionally cause harm or steal data.
+
+Negligent Insiders: Employees who accidentally expose data due to lack of awareness or training.
+Process Failures
+
+Data Loss: Inadequate backup processes leading to the loss of critical data.
+
+Misconfiguration: Incorrect system configurations that create vulnerabilities.
+Supply Chain Attacks
+
+Third-Party Vulnerabilities: Exploiting weaknesses in the systems or processes of third-party vendors that have access to an organization’s systems.
+Cyber Threats
+
+Cyber threats specifically target digital and network-based systems.
+
+SQL Injection
+
+Database Compromise: Injecting malicious SQL queries into web applications to manipulate or access database information.
+Cross-Site Scripting (XSS)
+
+Script Injection: Injecting malicious scripts into web pages viewed by other users, which can steal cookies or session tokens.
+Zero-Day Exploits
+
+Unknown Vulnerabilities: Attacks targeting previously unknown vulnerabilities before a patch or fix is available.
+Credential Stuffing
+
+Account Compromise: Using stolen credentials from one breach to gain unauthorized access to other accounts where the same credentials are used.
